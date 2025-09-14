@@ -1,0 +1,13 @@
+# Dépendances pour le script de compression PDF
+
+# Méthode recommandée - moderne et efficace
+pikepdf>=8.0.0
+
+# Alternative très performante pour la compression
+PyMuPDF>=1.23.0
+
+# Méthode de base - compatible mais moins efficace  
+PyPDF2>=3.0.0
+
+# Pour la compression avancée d'images dans les PDF
+Pillow>=10.0.0
